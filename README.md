@@ -2,7 +2,7 @@
 Reverse-engineered Hostify monitor which allows alternative server softwares like Velocity.
 
 ## Currently implemented software
-- [ ] Velocity
+- [x] Velocity
 
 ## How to use
 **You need to have at least Java 11 running on your server**
